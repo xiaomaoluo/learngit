@@ -4,3 +4,5 @@ Git is free software.
 1234567
 qwer
 1234qwer
+３４５６＠
+你好
