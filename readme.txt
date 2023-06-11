@@ -1,9 +1,5 @@
-Git is a distributed version control system.1111
-Git is free software.
-1234
-1234567
-qwer
-1234qwer
-３４５６＠
-你好
-コニカミノルタ123456789
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+My stupid boss still prefers SVN
